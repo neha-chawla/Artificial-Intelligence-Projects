@@ -1,7 +1,4 @@
-# Artificial Intelligence Projects
- Projects using AI techniques such as search, reinforcement learning, and neural networks.
-
-<h2>1) Maze Search</h2>
+# Maze Search
 
 Objective: Finding the optimal path from a Maze entrance to exit using Breadth-First Search (BFS), Uniform-Cost Search (UCS), and A* Search (A*).
 
